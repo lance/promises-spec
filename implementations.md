@@ -90,6 +90,11 @@ Also, if your implementation is published in the npm registry, we suggest using 
             <td>1.0</td>
         </tr>
         <tr>
+            <td><a href="https://github.com/lance/fidelity">fidelity</a></td>
+            <td>A lightweight and simple Promises/A+ implementation</td>
+            <td>1.0</td>
+        </tr>
+        <tr>
             <td><a href="https://github.com/gameclosure/ff">ff</a></td>
             <td>Simplifies the most common use cases for series, parallel, and promise utilities</td>
             <td>1.0</td>
